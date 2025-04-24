@@ -29,7 +29,7 @@
 
 1. **Clone the repo**
     ```bash
-    git clone https://github.com/your-username/dictionary-display-app.git
+    git clone https://github.com/Shreyu-07/Dictionary-representation-using-flask.git
     cd dictionary-display-app
     ```
 
@@ -66,6 +66,10 @@ dictionary-display-app/
 ```
 
 ---
+
+##Demo
+![op5](https://github.com/user-attachments/assets/12d41a17-08db-4df8-8ee3-b2a4dddf5d43)
+
 
 ## ✨ Screenshots
 
