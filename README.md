@@ -66,15 +66,12 @@ dictionary-display-app/
 ```
 
 ---
-
-##Demo
-![op5](https://github.com/user-attachments/assets/12d41a17-08db-4df8-8ee3-b2a4dddf5d43)
-
-
 ## ✨ Screenshots
 
 ![Screenshot](https://user-images.githubusercontent.com/your-username/screenshot.png)
 > _Gradient + Clean Table Design_
+![op5](https://github.com/user-attachments/assets/12d41a17-08db-4df8-8ee3-b2a4dddf5d43)
+
 
 ---
 
